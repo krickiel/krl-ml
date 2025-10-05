@@ -8,3 +8,5 @@ A machine learning project for predicting housing prices.
    ```bash
    git clone https://github.com/yourusername/my-first-ml-project.git
    cd my-first-ml-project
+uv sync
+uv run jupyter notebook
